@@ -1,3 +1,6 @@
+*{
+  overflow-x: hidden;
+}
 #del{
   background-size: cover;
   height: 100vh;
@@ -30,4 +33,9 @@
 }
 #what{
   text-align: center;
+  font-size:1em;
+}
+
+.us{
+  padding:20px;
 }
