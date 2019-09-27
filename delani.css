@@ -1,0 +1,19 @@
+#del{
+  background-size: cover;
+  height: 100vh;
+  background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
+}
+.col-md-12{
+  text-align: center;
+  padding:150;
+  color:white;
+}
+
+#logo{
+  font-size:4em;
+  padding:200px;
+}
+
+#services{
+  backgound-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true");
+}
