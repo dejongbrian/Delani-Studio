@@ -55,6 +55,16 @@
 .card-footer{
   text-align:center;
 }
-.mi{
-  color:red;
+.name,.email,.comment{
+  background-color: transparent;
+}
+.comment{
+  width:110vh;
+  height:30vh;
+}
+.name,.email{
+  width:50vh;
+}
+.name{
+  margin-right: 100px;
 }
