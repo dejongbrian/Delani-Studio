@@ -5,7 +5,7 @@
 }
 .col-md-12{
   text-align: center;
-  padding:150;
+  padding:50px;
   color:white;
 }
 
@@ -14,10 +14,17 @@
   padding:200px;
 }
 
+.abt{
+  text-align: center;
+  font-size:1em;
+  padding:60px;
+
+}
+
 #services{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true");
-  padding:20px;
+  padding:70px;
   color:white;
-  font-size:1.5em;
+  font-size:1em;
   text-align: center;
 }
