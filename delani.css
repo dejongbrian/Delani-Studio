@@ -10,10 +10,14 @@
 }
 
 #logo{
-  font-size:4em;
+  font-size:2em;
   padding:200px;
 }
 
 #services{
-  backgound-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true");
+  background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true");
+  padding:20px;
+  color:white;
+  font-size:1.5em;
+  text-align: center;
 }
