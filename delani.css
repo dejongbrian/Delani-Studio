@@ -41,5 +41,14 @@
 }
 #cont{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
-  
+  text-align: center;
+  font-size: 1.5em;
+}
+.co{
+  text-align:center;
+  font-size:2.5em;
+  color:white;
+}
+.jina{
+  color:white;
 }
