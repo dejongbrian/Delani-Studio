@@ -37,7 +37,8 @@
 }
 
 .us{
-  padding:20px;
+  /* padding:20px; */
+  text-align: center;
   
 }
 #cont{
@@ -71,4 +72,7 @@
 }
 .port{
   text-align: center;
+}
+h5{
+  font-size: 1.5em;
 }
