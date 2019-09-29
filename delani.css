@@ -38,6 +38,7 @@
 
 .us{
   padding:20px;
+  
 }
 #cont{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
@@ -67,4 +68,7 @@
 }
 .name{
   margin-right: 100px;
+}
+.port{
+  text-align: center;
 }

@@ -13,9 +13,9 @@ $(".click3").click(function(){
   $(".show3").toggle(1000);
 });
 
-// function getname(){
-//   var user=document.getElementById("button").nodeValue;
-//   alert("Thank You");
+function getname(){
+  var user=document.getElementById("button").nodeValue;
+  alert("Thank You");
 
-// event.preventDefault();
-// }
+event.preventDefault();
+}
