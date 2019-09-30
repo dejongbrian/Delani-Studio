@@ -14,14 +14,13 @@ $(".click3").click(function(){
   $(".show3").toggle(1000);
 });
 
-// $("button").click(function() {
-//   var user = document.getElementById("names").Value;
-//   alert('Thank you');
-
-// });
 
   $(".project").hide();
   $(".crosshover").hover(function(){
       $(this).find(".project").toggle(400);
   });
 });
+
+function me(){
+  alert("Thank you" + " " + "we received your comment!!")
+}
