@@ -76,3 +76,13 @@
 h5{
   font-size: 1.5em;
 }
+.middle{
+  position: absolute;
+   font-weight: bold;
+   top:50%;
+   left:50%;
+   transform:translate(-50%,-50%);
+   text-align: center;
+   opacity:0.55%;
+   background:white;
+}
